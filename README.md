@@ -11,6 +11,10 @@
     <img src="https://i.imgur.com/swtHVgh.png" width="50px" height="50px" alt="Chrome Web Store"></a>
 </p>
 
+## IMPORTANT!
+
+This repository will no longer be maintained! The project is renamed and moved to [Qbaware/Kosher](https://github.com/qbaware/kosher).
+
 ## Description
 Do you
 - :sunglasses: use multiple browsers, like Firefox and Chrome? 
